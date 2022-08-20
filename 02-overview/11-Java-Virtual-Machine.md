@@ -42,3 +42,18 @@
 - `Security Manager` in `JVM`
 
 # JIT Compiler
+
+- identify frequently executed byte code - `Hot spot`
+- JIT Compiler converts `Hot Spot` to machine code
+- cache machine code
+- faster execution
+- also called dynamic compilation
+
+# JIT compilation Example
+
+- foo(){}
+- bar(){}
+  - Java Interpreter read and run machine code in library
+  - after 1000 times run, it is recognized as `hot spot`
+  - JIT compilation compile the function to machine code for faster execution
+  - after 2000 times, another optimization
