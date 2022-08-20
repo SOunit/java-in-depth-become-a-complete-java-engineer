@@ -1,0 +1,10 @@
+- Java API
+- packages
+  - how to access
+  - how to create
+  - how to name packages
+    - effective java recommendation
+- string manipulation
+  - performance, efficient
+- access levels
+- information hiding
