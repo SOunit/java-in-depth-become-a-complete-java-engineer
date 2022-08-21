@@ -17,3 +17,9 @@
 # Item 14 from Effective Java
 
 - In public class, use accessor methods, not public fields
+
+# loosely coupled system
+
+- develop, test, use, and optimize in Isolation!
+- useful in multiple projects
+  - decrease risk
