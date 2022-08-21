@@ -1,7 +1,7 @@
 # perspective
 
-- perspective is view layout
-- Java perspective is simpler
+- `perspective` is view layout
+- Java `perspective` is simpler
 - default is Java EE
 
 # create file via Eclipse
@@ -13,3 +13,6 @@
 
 - preference
   - change font size
+- can see Java Doc
+- `window/view`
+  - when you remove `view`
