@@ -7,5 +7,7 @@ public class BasicsDemo {
     // b) no reserved keywords
 
     // 2. Java is case-sensitive
-
+    public void foo() {
+        System.out.println("Foo");
+    }
 }
