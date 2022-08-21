@@ -30,5 +30,18 @@
 
 # Java API: Import packages
 
-- `java.lang`
-  - fundamental classes
+- `java.lang` - fundamental classes
+- `java.util` - data structures
+- `java.io` - reading & writing
+- `java.net` - networking
+- `java.sql` - databases
+
+# 3rd party API
+
+- Big Data / Apache Hadoot
+- Data Mining / Weka, Apache Mahout
+- Database / Hibernate
+- Search / Apache Solr
+- Parsing / JDOM, Jackson, Google gson
+- Core / Apache Commons, Google Guava
+- Web Framework / Spring
