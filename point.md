@@ -12,3 +12,10 @@
   - public for public use
   - only one class uses, `private nested`
     - a class definition inside another class
+
+# initializer
+
+- static initializer
+- instance initializer
+  - run the logic before constructor
+  - to reuse code
