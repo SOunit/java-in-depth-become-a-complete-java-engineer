@@ -45,3 +45,9 @@
 - Parsing / JDOM, Jackson, Google gson
 - Core / Apache Commons, Google Guava
 - Web Framework / Spring
+
+# Item 47 from effective Java
+
+- focus on writing new logic
+- APIs improve performance over time
+- Gain new functionality
