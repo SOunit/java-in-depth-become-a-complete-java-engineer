@@ -19,3 +19,19 @@
 - instance initializer
   - run the logic before constructor
   - to reuse code
+
+# polymorphism
+
+- inheritance has polymorphism
+
+- benefit
+
+  - flexible code
+    - less change, less bug, less code
+  - clean code
+
+- method invocation
+  - compiler check `reference type`
+  - JVM check `object type`
+    - start method check from actual `object type`
+    - if `editor.printUserType()`, then JVM check `editor`, `staff`, `user`
