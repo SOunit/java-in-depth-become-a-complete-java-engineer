@@ -11,6 +11,11 @@
   - Book
   - Movie
 
+# technical requirement
+
+- too abstract
+- just make contract with subclass
+
 # abstract class
 
 - abstract class
